@@ -1,0 +1,11 @@
+C:\ProyectosNET\04.CalcPaga\obj\Debug\netcoreapp2.2\04.CalcPaga.csprojAssemblyReference.cache
+C:\ProyectosNET\04.CalcPaga\obj\Debug\netcoreapp2.2\04.CalcPaga.csproj.CoreCompileInputs.cache
+C:\ProyectosNET\04.CalcPaga\obj\Debug\netcoreapp2.2\04.CalcPaga.AssemblyInfoInputs.cache
+C:\ProyectosNET\04.CalcPaga\obj\Debug\netcoreapp2.2\04.CalcPaga.AssemblyInfo.cs
+C:\ProyectosNET\04.CalcPaga\bin\Debug\netcoreapp2.2\04.CalcPaga.deps.json
+C:\ProyectosNET\04.CalcPaga\bin\Debug\netcoreapp2.2\04.CalcPaga.runtimeconfig.json
+C:\ProyectosNET\04.CalcPaga\bin\Debug\netcoreapp2.2\04.CalcPaga.runtimeconfig.dev.json
+C:\ProyectosNET\04.CalcPaga\bin\Debug\netcoreapp2.2\04.CalcPaga.dll
+C:\ProyectosNET\04.CalcPaga\bin\Debug\netcoreapp2.2\04.CalcPaga.pdb
+C:\ProyectosNET\04.CalcPaga\obj\Debug\netcoreapp2.2\04.CalcPaga.dll
+C:\ProyectosNET\04.CalcPaga\obj\Debug\netcoreapp2.2\04.CalcPaga.pdb
