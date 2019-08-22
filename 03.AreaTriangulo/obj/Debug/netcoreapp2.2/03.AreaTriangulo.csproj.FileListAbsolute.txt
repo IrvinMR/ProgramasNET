@@ -1,0 +1,11 @@
+C:\ProyectosNET\03.AreaTriangulo\obj\Debug\netcoreapp2.2\03.AreaTriangulo.csprojAssemblyReference.cache
+C:\ProyectosNET\03.AreaTriangulo\obj\Debug\netcoreapp2.2\03.AreaTriangulo.csproj.CoreCompileInputs.cache
+C:\ProyectosNET\03.AreaTriangulo\obj\Debug\netcoreapp2.2\03.AreaTriangulo.AssemblyInfoInputs.cache
+C:\ProyectosNET\03.AreaTriangulo\obj\Debug\netcoreapp2.2\03.AreaTriangulo.AssemblyInfo.cs
+C:\ProyectosNET\03.AreaTriangulo\bin\Debug\netcoreapp2.2\03.AreaTriangulo.deps.json
+C:\ProyectosNET\03.AreaTriangulo\bin\Debug\netcoreapp2.2\03.AreaTriangulo.runtimeconfig.json
+C:\ProyectosNET\03.AreaTriangulo\bin\Debug\netcoreapp2.2\03.AreaTriangulo.runtimeconfig.dev.json
+C:\ProyectosNET\03.AreaTriangulo\bin\Debug\netcoreapp2.2\03.AreaTriangulo.dll
+C:\ProyectosNET\03.AreaTriangulo\bin\Debug\netcoreapp2.2\03.AreaTriangulo.pdb
+C:\ProyectosNET\03.AreaTriangulo\obj\Debug\netcoreapp2.2\03.AreaTriangulo.dll
+C:\ProyectosNET\03.AreaTriangulo\obj\Debug\netcoreapp2.2\03.AreaTriangulo.pdb
