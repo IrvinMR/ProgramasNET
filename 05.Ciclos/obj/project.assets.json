@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProyectosNET\\02.AreaTriangulo\\02.AreaTriangulo.csproj",
-      "projectName": "02.AreaTriangulo",
-      "projectPath": "C:\\ProyectosNET\\02.AreaTriangulo\\02.AreaTriangulo.csproj",
+      "projectUniqueName": "C:\\ProyectosNET\\05.Ciclos\\05.Ciclos.csproj",
+      "projectName": "05.Ciclos",
+      "projectPath": "C:\\ProyectosNET\\05.Ciclos\\05.Ciclos.csproj",
       "packagesPath": "C:\\Users\\irvin\\.nuget\\packages\\",
-      "outputPath": "C:\\ProyectosNET\\02.AreaTriangulo\\obj\\",
+      "outputPath": "C:\\ProyectosNET\\05.Ciclos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
