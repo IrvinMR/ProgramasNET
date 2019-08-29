@@ -2,3 +2,10 @@ C:\ProyectosNET\14.VecEst\obj\Debug\netcoreapp2.2\14.VecEst.csprojAssemblyRefere
 C:\ProyectosNET\14.VecEst\obj\Debug\netcoreapp2.2\14.VecEst.csproj.CoreCompileInputs.cache
 C:\ProyectosNET\14.VecEst\obj\Debug\netcoreapp2.2\14.VecEst.AssemblyInfoInputs.cache
 C:\ProyectosNET\14.VecEst\obj\Debug\netcoreapp2.2\14.VecEst.AssemblyInfo.cs
+C:\ProyectosNET\14.VecEst\bin\Debug\netcoreapp2.2\14.VecEst.deps.json
+C:\ProyectosNET\14.VecEst\bin\Debug\netcoreapp2.2\14.VecEst.runtimeconfig.json
+C:\ProyectosNET\14.VecEst\bin\Debug\netcoreapp2.2\14.VecEst.runtimeconfig.dev.json
+C:\ProyectosNET\14.VecEst\bin\Debug\netcoreapp2.2\14.VecEst.dll
+C:\ProyectosNET\14.VecEst\bin\Debug\netcoreapp2.2\14.VecEst.pdb
+C:\ProyectosNET\14.VecEst\obj\Debug\netcoreapp2.2\14.VecEst.dll
+C:\ProyectosNET\14.VecEst\obj\Debug\netcoreapp2.2\14.VecEst.pdb

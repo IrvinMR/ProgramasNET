@@ -15,32 +15,31 @@ namespace _14.VecEst
             leer(A);
 
             Console.WriteLine("Estadisticas");
-            Console.WriteLine($"Mayor {mayor[A]}");
-            Console.WriteLine($"Menor {menor[A]}");
-            Console.WriteLine($"Promedio {promedio[A]}");
-            Console.WriteLine($"Varianza {varianza(A,promedio[A])}");
-            Console.WriteLine($"Desv Estandar {Math.Sqrt(varianza(A,promedio[A]))}");
+            Console.WriteLine($"Mayor {mayor(A)}");
+            Console.WriteLine($"Menor {menor(A)}");
+            Console.WriteLine($"Promedio {promedio(A)}");
+            Console.WriteLine($"Varianza {varianza(A,promedio(A))}");
+            Console.WriteLine($"Desv Estandar {Math.Sqrt(varianza(A,promedio(A)))}");
         }
 
-        static double varianza(double[] v, double media){
+        static double varianza(double[] v, double media) {
             double s=0;
-            for(int i = 1; i<v.Length ; i++)
-                s+= Math.Pow(v.[i]-promedio,2);
+            for(int i=0; i<v.Length; i++)
+                s+= Math.Pow(v[i]-media,2);
             return s/v.Length-1;
-
         }
 
         static double promedio (double[] v){
             double s=0;
-            for(int i = 0; i<v.Length ; i++)
-                s+= v.[i];
+            for(int i=0; i<v.Length; i++)
+                s+=v[i];
             return s/v.Length;
             }
 
         static double menor (double[] v){
             double m=v[0];
-                if (v[i]< m) m=v[i];
             for(int i = 1; i<v.Length ; i++)
+                if(v[i]<m) m=v[i];
             return m;
             }
 
@@ -51,9 +50,9 @@ namespace _14.VecEst
             return m;
             }
 
-        static void leer(double[], v){
+        static void leer(double[] v){
             for(int i=0;i<v.Length;i++){
-                Console.Write($"Elemento {i+} =" ); 
+                Console.Write($"Elemento {i+1} =" ); 
                 v[i]=double.Parse(Console.ReadLine());
             }
         }
