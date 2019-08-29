@@ -1,0 +1,11 @@
+C:\ProyectosNET\08.VectorProm\obj\Debug\netcoreapp2.2\08.VectorProm.csprojAssemblyReference.cache
+C:\ProyectosNET\08.VectorProm\obj\Debug\netcoreapp2.2\08.VectorProm.csproj.CoreCompileInputs.cache
+C:\ProyectosNET\08.VectorProm\obj\Debug\netcoreapp2.2\08.VectorProm.AssemblyInfoInputs.cache
+C:\ProyectosNET\08.VectorProm\obj\Debug\netcoreapp2.2\08.VectorProm.AssemblyInfo.cs
+C:\ProyectosNET\08.VectorProm\bin\Debug\netcoreapp2.2\08.VectorProm.deps.json
+C:\ProyectosNET\08.VectorProm\bin\Debug\netcoreapp2.2\08.VectorProm.runtimeconfig.json
+C:\ProyectosNET\08.VectorProm\bin\Debug\netcoreapp2.2\08.VectorProm.runtimeconfig.dev.json
+C:\ProyectosNET\08.VectorProm\bin\Debug\netcoreapp2.2\08.VectorProm.dll
+C:\ProyectosNET\08.VectorProm\bin\Debug\netcoreapp2.2\08.VectorProm.pdb
+C:\ProyectosNET\08.VectorProm\obj\Debug\netcoreapp2.2\08.VectorProm.dll
+C:\ProyectosNET\08.VectorProm\obj\Debug\netcoreapp2.2\08.VectorProm.pdb
