@@ -1,0 +1,4 @@
+C:\ProyectosNET\14.VecEst\obj\Debug\netcoreapp2.2\14.VecEst.csprojAssemblyReference.cache
+C:\ProyectosNET\14.VecEst\obj\Debug\netcoreapp2.2\14.VecEst.csproj.CoreCompileInputs.cache
+C:\ProyectosNET\14.VecEst\obj\Debug\netcoreapp2.2\14.VecEst.AssemblyInfoInputs.cache
+C:\ProyectosNET\14.VecEst\obj\Debug\netcoreapp2.2\14.VecEst.AssemblyInfo.cs
