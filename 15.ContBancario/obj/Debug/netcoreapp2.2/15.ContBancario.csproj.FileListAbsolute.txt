@@ -2,3 +2,10 @@ C:\ProyectosNET\15.ContBancario\obj\Debug\netcoreapp2.2\15.ContBancario.csprojAs
 C:\ProyectosNET\15.ContBancario\obj\Debug\netcoreapp2.2\15.ContBancario.csproj.CoreCompileInputs.cache
 C:\ProyectosNET\15.ContBancario\obj\Debug\netcoreapp2.2\15.ContBancario.AssemblyInfoInputs.cache
 C:\ProyectosNET\15.ContBancario\obj\Debug\netcoreapp2.2\15.ContBancario.AssemblyInfo.cs
+C:\ProyectosNET\15.ContBancario\bin\Debug\netcoreapp2.2\15.ContBancario.deps.json
+C:\ProyectosNET\15.ContBancario\bin\Debug\netcoreapp2.2\15.ContBancario.runtimeconfig.json
+C:\ProyectosNET\15.ContBancario\bin\Debug\netcoreapp2.2\15.ContBancario.runtimeconfig.dev.json
+C:\ProyectosNET\15.ContBancario\bin\Debug\netcoreapp2.2\15.ContBancario.dll
+C:\ProyectosNET\15.ContBancario\bin\Debug\netcoreapp2.2\15.ContBancario.pdb
+C:\ProyectosNET\15.ContBancario\obj\Debug\netcoreapp2.2\15.ContBancario.dll
+C:\ProyectosNET\15.ContBancario\obj\Debug\netcoreapp2.2\15.ContBancario.pdb

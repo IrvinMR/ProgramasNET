@@ -11,7 +11,7 @@ namespace ContBancario
             CuentaBancaria micuenta1= new CuentaBancaria();
             CuentaBancaria micuenta2= new CuentaBancaria(1000);
             CuentaAhorro miahorro = new CuentaAhorro(600,0.3);
-            CuentaCheque micheque = new CuentaCheque(5000,1000);
+            CuentaCheques micheque = new CuentaCheques(5000,1000);
 
             micuenta1.Deposita(300);
             micuenta2.Retirar(500);

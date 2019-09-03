@@ -1,4 +1,4 @@
-namespace ContBancario.clases
+namespace ContBancario.Clases
 {
     public class CuentaCheques:CuentaBancaria{
         private double sobregiro;
