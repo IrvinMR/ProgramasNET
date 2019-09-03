@@ -1,0 +1,4 @@
+C:\ProyectosNET\15.ContBancario\obj\Debug\netcoreapp2.2\15.ContBancario.csprojAssemblyReference.cache
+C:\ProyectosNET\15.ContBancario\obj\Debug\netcoreapp2.2\15.ContBancario.csproj.CoreCompileInputs.cache
+C:\ProyectosNET\15.ContBancario\obj\Debug\netcoreapp2.2\15.ContBancario.AssemblyInfoInputs.cache
+C:\ProyectosNET\15.ContBancario\obj\Debug\netcoreapp2.2\15.ContBancario.AssemblyInfo.cs

@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ProyectosNET\\07.Tablas\\07.Tablas.csproj": {}
+  },
+  "projects": {
+    "C:\\ProyectosNET\\07.Tablas\\07.Tablas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ProyectosNET\\07.Tablas\\07.Tablas.csproj",
+        "projectName": "07.Tablas",
+        "projectPath": "C:\\ProyectosNET\\07.Tablas\\07.Tablas.csproj",
+        "packagesPath": "C:\\Users\\irvin\\.nuget\\packages\\",
+        "outputPath": "C:\\ProyectosNET\\07.Tablas\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\irvin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

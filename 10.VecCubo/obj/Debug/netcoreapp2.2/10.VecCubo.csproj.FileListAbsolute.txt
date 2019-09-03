@@ -1,0 +1,11 @@
+C:\ProyectosNET\10.VecCubo\obj\Debug\netcoreapp2.2\10.VecCubo.csprojAssemblyReference.cache
+C:\ProyectosNET\10.VecCubo\obj\Debug\netcoreapp2.2\10.VecCubo.csproj.CoreCompileInputs.cache
+C:\ProyectosNET\10.VecCubo\obj\Debug\netcoreapp2.2\10.VecCubo.AssemblyInfoInputs.cache
+C:\ProyectosNET\10.VecCubo\obj\Debug\netcoreapp2.2\10.VecCubo.AssemblyInfo.cs
+C:\ProyectosNET\10.VecCubo\bin\Debug\netcoreapp2.2\10.VecCubo.deps.json
+C:\ProyectosNET\10.VecCubo\bin\Debug\netcoreapp2.2\10.VecCubo.runtimeconfig.json
+C:\ProyectosNET\10.VecCubo\bin\Debug\netcoreapp2.2\10.VecCubo.runtimeconfig.dev.json
+C:\ProyectosNET\10.VecCubo\bin\Debug\netcoreapp2.2\10.VecCubo.dll
+C:\ProyectosNET\10.VecCubo\bin\Debug\netcoreapp2.2\10.VecCubo.pdb
+C:\ProyectosNET\10.VecCubo\obj\Debug\netcoreapp2.2\10.VecCubo.dll
+C:\ProyectosNET\10.VecCubo\obj\Debug\netcoreapp2.2\10.VecCubo.pdb

@@ -1,0 +1,11 @@
+C:\ProyectosNET\09.VectorRandom\obj\Debug\netcoreapp2.2\09.VectorRandom.csprojAssemblyReference.cache
+C:\ProyectosNET\09.VectorRandom\obj\Debug\netcoreapp2.2\09.VectorRandom.csproj.CoreCompileInputs.cache
+C:\ProyectosNET\09.VectorRandom\obj\Debug\netcoreapp2.2\09.VectorRandom.AssemblyInfoInputs.cache
+C:\ProyectosNET\09.VectorRandom\obj\Debug\netcoreapp2.2\09.VectorRandom.AssemblyInfo.cs
+C:\ProyectosNET\09.VectorRandom\bin\Debug\netcoreapp2.2\09.VectorRandom.deps.json
+C:\ProyectosNET\09.VectorRandom\bin\Debug\netcoreapp2.2\09.VectorRandom.runtimeconfig.json
+C:\ProyectosNET\09.VectorRandom\bin\Debug\netcoreapp2.2\09.VectorRandom.runtimeconfig.dev.json
+C:\ProyectosNET\09.VectorRandom\bin\Debug\netcoreapp2.2\09.VectorRandom.dll
+C:\ProyectosNET\09.VectorRandom\bin\Debug\netcoreapp2.2\09.VectorRandom.pdb
+C:\ProyectosNET\09.VectorRandom\obj\Debug\netcoreapp2.2\09.VectorRandom.dll
+C:\ProyectosNET\09.VectorRandom\obj\Debug\netcoreapp2.2\09.VectorRandom.pdb

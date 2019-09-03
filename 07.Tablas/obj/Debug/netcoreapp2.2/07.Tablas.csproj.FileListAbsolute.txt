@@ -1,0 +1,11 @@
+C:\ProyectosNET\07.Tablas\obj\Debug\netcoreapp2.2\07.Tablas.csprojAssemblyReference.cache
+C:\ProyectosNET\07.Tablas\obj\Debug\netcoreapp2.2\07.Tablas.csproj.CoreCompileInputs.cache
+C:\ProyectosNET\07.Tablas\obj\Debug\netcoreapp2.2\07.Tablas.AssemblyInfoInputs.cache
+C:\ProyectosNET\07.Tablas\obj\Debug\netcoreapp2.2\07.Tablas.AssemblyInfo.cs
+C:\ProyectosNET\07.Tablas\bin\Debug\netcoreapp2.2\07.Tablas.deps.json
+C:\ProyectosNET\07.Tablas\bin\Debug\netcoreapp2.2\07.Tablas.runtimeconfig.json
+C:\ProyectosNET\07.Tablas\bin\Debug\netcoreapp2.2\07.Tablas.runtimeconfig.dev.json
+C:\ProyectosNET\07.Tablas\bin\Debug\netcoreapp2.2\07.Tablas.dll
+C:\ProyectosNET\07.Tablas\bin\Debug\netcoreapp2.2\07.Tablas.pdb
+C:\ProyectosNET\07.Tablas\obj\Debug\netcoreapp2.2\07.Tablas.dll
+C:\ProyectosNET\07.Tablas\obj\Debug\netcoreapp2.2\07.Tablas.pdb

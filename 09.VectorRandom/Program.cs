@@ -16,17 +16,22 @@ namespace _09.VectorRandom
                 A[i]=rnd.Next(1,30);
                 B[i]=rnd.Next(1,30);
                 C[i]=rnd.Next(1,30);
-
             }
-
-
-
-            Console.WriteLine("Hello World!");
+            Console.Clear();
+            Console.WriteLine($" El vector 1:");
+            imprime(A);
+            Console.WriteLine($"\n El vector 2");
+            imprime(B);
+            Console.WriteLine($"\n Suma de los dos vectores");
+            ImpSuma(A,B);
         }
-        static void imprime(strig[] args){
-            for(int i== ;i<V.Length; i++)
-                Console.WriteLine("");
-
+        static void imprime(int[] V){
+            for(int i=0 ;i<V.Length; i++)
+                Console.Write($"{V[i]} ");
+        }
+        static void ImpSuma(int[] V, int[] v){
+            for(int i=0 ;i<V.Length; i++)
+                Console.Write($"{V[i] + v[i]} ");
         }
     }
 }
