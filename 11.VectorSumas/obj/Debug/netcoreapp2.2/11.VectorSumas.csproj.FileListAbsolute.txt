@@ -1,0 +1,11 @@
+C:\ProyectosNET\11.VectorSumas\obj\Debug\netcoreapp2.2\11.VectorSumas.csprojAssemblyReference.cache
+C:\ProyectosNET\11.VectorSumas\obj\Debug\netcoreapp2.2\11.VectorSumas.csproj.CoreCompileInputs.cache
+C:\ProyectosNET\11.VectorSumas\obj\Debug\netcoreapp2.2\11.VectorSumas.AssemblyInfoInputs.cache
+C:\ProyectosNET\11.VectorSumas\obj\Debug\netcoreapp2.2\11.VectorSumas.AssemblyInfo.cs
+C:\ProyectosNET\11.VectorSumas\bin\Debug\netcoreapp2.2\11.VectorSumas.deps.json
+C:\ProyectosNET\11.VectorSumas\bin\Debug\netcoreapp2.2\11.VectorSumas.runtimeconfig.json
+C:\ProyectosNET\11.VectorSumas\bin\Debug\netcoreapp2.2\11.VectorSumas.runtimeconfig.dev.json
+C:\ProyectosNET\11.VectorSumas\bin\Debug\netcoreapp2.2\11.VectorSumas.dll
+C:\ProyectosNET\11.VectorSumas\bin\Debug\netcoreapp2.2\11.VectorSumas.pdb
+C:\ProyectosNET\11.VectorSumas\obj\Debug\netcoreapp2.2\11.VectorSumas.dll
+C:\ProyectosNET\11.VectorSumas\obj\Debug\netcoreapp2.2\11.VectorSumas.pdb
