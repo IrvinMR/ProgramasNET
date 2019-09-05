@@ -1,0 +1,11 @@
+C:\ProyectosNET\12.VectorInverso\bin\Debug\netcoreapp2.2\12.VectorInverso.deps.json
+C:\ProyectosNET\12.VectorInverso\bin\Debug\netcoreapp2.2\12.VectorInverso.runtimeconfig.json
+C:\ProyectosNET\12.VectorInverso\bin\Debug\netcoreapp2.2\12.VectorInverso.runtimeconfig.dev.json
+C:\ProyectosNET\12.VectorInverso\bin\Debug\netcoreapp2.2\12.VectorInverso.dll
+C:\ProyectosNET\12.VectorInverso\bin\Debug\netcoreapp2.2\12.VectorInverso.pdb
+C:\ProyectosNET\12.VectorInverso\obj\Debug\netcoreapp2.2\12.VectorInverso.csprojAssemblyReference.cache
+C:\ProyectosNET\12.VectorInverso\obj\Debug\netcoreapp2.2\12.VectorInverso.csproj.CoreCompileInputs.cache
+C:\ProyectosNET\12.VectorInverso\obj\Debug\netcoreapp2.2\12.VectorInverso.AssemblyInfoInputs.cache
+C:\ProyectosNET\12.VectorInverso\obj\Debug\netcoreapp2.2\12.VectorInverso.AssemblyInfo.cs
+C:\ProyectosNET\12.VectorInverso\obj\Debug\netcoreapp2.2\12.VectorInverso.dll
+C:\ProyectosNET\12.VectorInverso\obj\Debug\netcoreapp2.2\12.VectorInverso.pdb
