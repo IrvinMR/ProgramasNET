@@ -1,0 +1,11 @@
+C:\ProyectosNET\ExamenRed\obj\Debug\netcoreapp2.2\ExamenRed.csprojAssemblyReference.cache
+C:\ProyectosNET\ExamenRed\obj\Debug\netcoreapp2.2\ExamenRed.csproj.CoreCompileInputs.cache
+C:\ProyectosNET\ExamenRed\obj\Debug\netcoreapp2.2\ExamenRed.AssemblyInfoInputs.cache
+C:\ProyectosNET\ExamenRed\obj\Debug\netcoreapp2.2\ExamenRed.AssemblyInfo.cs
+C:\ProyectosNET\ExamenRed\bin\Debug\netcoreapp2.2\ExamenRed.deps.json
+C:\ProyectosNET\ExamenRed\bin\Debug\netcoreapp2.2\ExamenRed.runtimeconfig.json
+C:\ProyectosNET\ExamenRed\bin\Debug\netcoreapp2.2\ExamenRed.runtimeconfig.dev.json
+C:\ProyectosNET\ExamenRed\bin\Debug\netcoreapp2.2\ExamenRed.dll
+C:\ProyectosNET\ExamenRed\bin\Debug\netcoreapp2.2\ExamenRed.pdb
+C:\ProyectosNET\ExamenRed\obj\Debug\netcoreapp2.2\ExamenRed.dll
+C:\ProyectosNET\ExamenRed\obj\Debug\netcoreapp2.2\ExamenRed.pdb

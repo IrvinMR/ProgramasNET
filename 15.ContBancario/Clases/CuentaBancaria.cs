@@ -9,8 +9,7 @@ namespace ContBancario.Clases
             this.saldo = saldo;
         }
         
-        public double Saldo
-        {
+        public double Saldo{
             get { return saldo; }
         }
 
