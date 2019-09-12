@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProyectosNET\\RedesExamen1\\RedesExamen1.csproj": {}
+    "C:\\ProyectosNET\\16.Interfaces\\16.Interfaces.csproj": {}
   },
   "projects": {
-    "C:\\ProyectosNET\\RedesExamen1\\RedesExamen1.csproj": {
+    "C:\\ProyectosNET\\16.Interfaces\\16.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProyectosNET\\RedesExamen1\\RedesExamen1.csproj",
-        "projectName": "RedesExamen1",
-        "projectPath": "C:\\ProyectosNET\\RedesExamen1\\RedesExamen1.csproj",
+        "projectUniqueName": "C:\\ProyectosNET\\16.Interfaces\\16.Interfaces.csproj",
+        "projectName": "16.Interfaces",
+        "projectPath": "C:\\ProyectosNET\\16.Interfaces\\16.Interfaces.csproj",
         "packagesPath": "C:\\Users\\irvin\\.nuget\\packages\\",
-        "outputPath": "C:\\ProyectosNET\\RedesExamen1\\obj\\",
+        "outputPath": "C:\\ProyectosNET\\16.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
