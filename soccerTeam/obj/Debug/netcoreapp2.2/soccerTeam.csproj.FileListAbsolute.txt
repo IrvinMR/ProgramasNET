@@ -1,0 +1,105 @@
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/bin/Debug/netcoreapp2.2/soccerTeam.deps.json
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/bin/Debug/netcoreapp2.2/soccerTeam.runtimeconfig.json
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/bin/Debug/netcoreapp2.2/soccerTeam.runtimeconfig.dev.json
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/bin/Debug/netcoreapp2.2/soccerTeam.dll
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/bin/Debug/netcoreapp2.2/soccerTeam.pdb
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/bin/Debug/netcoreapp2.2/soccerTeam.Views.dll
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/bin/Debug/netcoreapp2.2/soccerTeam.Views.pdb
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/obj/Debug/netcoreapp2.2/soccerTeam.csprojAssemblyReference.cache
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/obj/Debug/netcoreapp2.2/soccerTeam.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/obj/Debug/netcoreapp2.2/soccerTeam.RazorAssemblyInfo.cache
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/obj/Debug/netcoreapp2.2/soccerTeam.RazorAssemblyInfo.cs
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/obj/Debug/netcoreapp2.2/soccerTeam.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/obj/Debug/netcoreapp2.2/soccerTeam.AssemblyInfo.cs
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/obj/Debug/netcoreapp2.2/soccerTeam.TagHelpers.input.cache
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/obj/Debug/netcoreapp2.2/soccerTeam.TagHelpers.output.cache
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/obj/Debug/netcoreapp2.2/soccerTeam.RazorCoreGenerate.cache
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/obj/Debug/netcoreapp2.2/soccerTeam.RazorTargetAssemblyInfo.cache
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/obj/Debug/netcoreapp2.2/soccerTeam.RazorTargetAssemblyInfo.cs
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/obj/Debug/netcoreapp2.2/soccerTeam.Views.pdb
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/obj/Debug/netcoreapp2.2/soccerTeam.dll
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/obj/Debug/netcoreapp2.2/soccerTeam.pdb
+/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/soccerTeam/obj/Debug/netcoreapp2.2/soccerTeam.csproj.CopyComplete
+c:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\soccerTeam.csprojAssemblyReference.cache
+c:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\soccerTeam.csproj.CoreCompileInputs.cache
+c:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\soccerTeam.RazorAssemblyInfo.cache
+c:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\soccerTeam.RazorAssemblyInfo.cs
+c:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\soccerTeam.AssemblyInfoInputs.cache
+c:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\soccerTeam.AssemblyInfo.cs
+c:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\soccerTeam.dll
+c:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\soccerTeam.pdb
+C:\ProyectosNET\soccerTeam_v3\bin\Debug\netcoreapp2.2\soccerTeam.deps.json
+C:\ProyectosNET\soccerTeam_v3\bin\Debug\netcoreapp2.2\soccerTeam.runtimeconfig.json
+C:\ProyectosNET\soccerTeam_v3\bin\Debug\netcoreapp2.2\soccerTeam.runtimeconfig.dev.json
+c:\ProyectosNET\soccerTeam_v3\bin\Debug\netcoreapp2.2\soccerTeam.dll
+c:\ProyectosNET\soccerTeam_v3\bin\Debug\netcoreapp2.2\soccerTeam.pdb
+C:\ProyectosNET\soccerTeam_v3\bin\Debug\netcoreapp2.2\soccerTeam.Views.dll
+c:\ProyectosNET\soccerTeam_v3\bin\Debug\netcoreapp2.2\soccerTeam.Views.pdb
+c:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\soccerTeam.TagHelpers.input.cache
+c:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\soccerTeam.TagHelpers.output.cache
+c:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\soccerTeam.RazorCoreGenerate.cache
+c:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+c:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+c:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+c:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+c:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+c:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+c:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+c:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+c:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\soccerTeam.RazorTargetAssemblyInfo.cache
+c:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\soccerTeam.RazorTargetAssemblyInfo.cs
+c:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\soccerTeam.Views.pdb
+C:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\soccerTeam.csproj.CopyComplete
+c:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\Razor\Views\FilmGeneres\Create.g.cshtml.cs
+c:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\Razor\Views\FilmGeneres\Delete.g.cshtml.cs
+c:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\Razor\Views\FilmGeneres\Details.g.cshtml.cs
+c:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\Razor\Views\FilmGeneres\Edit.g.cshtml.cs
+c:\ProyectosNET\soccerTeam_v3\obj\Debug\netcoreapp2.2\Razor\Views\FilmGeneres\Index.g.cshtml.cs
+C:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\soccerTeam.csprojAssemblyReference.cache
+C:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\soccerTeam.csproj.CoreCompileInputs.cache
+C:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\soccerTeam.RazorAssemblyInfo.cache
+C:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\soccerTeam.RazorAssemblyInfo.cs
+C:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\soccerTeam.AssemblyInfoInputs.cache
+C:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\soccerTeam.AssemblyInfo.cs
+C:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\soccerTeam.dll
+C:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\soccerTeam.pdb
+C:\ProyectosNET\soccerTeam\bin\Debug\netcoreapp2.2\soccerTeam.deps.json
+C:\ProyectosNET\soccerTeam\bin\Debug\netcoreapp2.2\soccerTeam.runtimeconfig.json
+C:\ProyectosNET\soccerTeam\bin\Debug\netcoreapp2.2\soccerTeam.runtimeconfig.dev.json
+c:\ProyectosNET\soccerTeam\bin\Debug\netcoreapp2.2\soccerTeam.dll
+c:\ProyectosNET\soccerTeam\bin\Debug\netcoreapp2.2\soccerTeam.pdb
+C:\ProyectosNET\soccerTeam\bin\Debug\netcoreapp2.2\soccerTeam.Views.dll
+c:\ProyectosNET\soccerTeam\bin\Debug\netcoreapp2.2\soccerTeam.Views.pdb
+c:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\soccerTeam.TagHelpers.input.cache
+c:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\soccerTeam.TagHelpers.output.cache
+c:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\soccerTeam.RazorCoreGenerate.cache
+c:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+c:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+c:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+c:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+c:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+c:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+c:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+c:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+c:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\soccerTeam.RazorTargetAssemblyInfo.cache
+c:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\soccerTeam.RazorTargetAssemblyInfo.cs
+c:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\soccerTeam.Views.pdb
+C:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\soccerTeam.csproj.CopyComplete
+C:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\Razor\Views\Positions\Create.g.cshtml.cs
+C:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\Razor\Views\Positions\Delete.g.cshtml.cs
+C:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\Razor\Views\Positions\Details.g.cshtml.cs
+C:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\Razor\Views\Positions\Edit.g.cshtml.cs
+C:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\Razor\Views\Positions\Index.g.cshtml.cs
+C:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\Razor\Views\Competitions\Create.g.cshtml.cs
+C:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\Razor\Views\Competitions\Delete.g.cshtml.cs
+C:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\Razor\Views\Competitions\Details.g.cshtml.cs
+C:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\Razor\Views\Competitions\Edit.g.cshtml.cs
+C:\ProyectosNET\soccerTeam\obj\Debug\netcoreapp2.2\Razor\Views\Competitions\Index.g.cshtml.cs
