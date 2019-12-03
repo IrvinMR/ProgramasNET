@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\ProyectosNET\\soccerTeam\\soccerTeam.csproj",
+  "FilePath": "c:\\ProyectosNET\\SegundoExamen\\SegundoExamen.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2958,96 +2958,46 @@
     ],
     "CSharpLanguageVersion": 703
   },
-  "RootNamespace": "soccerTeam",
+  "RootNamespace": "SegundoExamen",
   "Documents": [
     {
-      "FilePath": "c:\\ProyectosNET\\soccerTeam\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\ProyectosNET\\soccerTeam\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\ProyectosNET\\soccerTeam\\Views\\Competitions\\Delete.cshtml",
-      "TargetPath": "Views\\Competitions\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\ProyectosNET\\soccerTeam\\Views\\Positions\\Create.cshtml",
-      "TargetPath": "Views\\Positions\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\ProyectosNET\\soccerTeam\\Views\\Competitions\\Edit.cshtml",
-      "TargetPath": "Views\\Competitions\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\ProyectosNET\\soccerTeam\\Views\\Positions\\Details.cshtml",
-      "TargetPath": "Views\\Positions\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\ProyectosNET\\soccerTeam\\Views\\Competitions\\Index.cshtml",
-      "TargetPath": "Views\\Competitions\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\ProyectosNET\\soccerTeam\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\ProyectosNET\\SegundoExamen\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\ProyectosNET\\soccerTeam\\Views\\Competitions\\Create.cshtml",
-      "TargetPath": "Views\\Competitions\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\ProyectosNET\\soccerTeam\\Views\\Positions\\Edit.cshtml",
-      "TargetPath": "Views\\Positions\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\ProyectosNET\\soccerTeam\\Views\\Positions\\Index.cshtml",
-      "TargetPath": "Views\\Positions\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\ProyectosNET\\soccerTeam\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\ProyectosNET\\soccerTeam\\Views\\Shared\\_CookieConsentPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\ProyectosNET\\soccerTeam\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\ProyectosNET\\soccerTeam\\Views\\Competitions\\Details.cshtml",
-      "TargetPath": "Views\\Competitions\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\ProyectosNET\\soccerTeam\\Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\ProyectosNET\\SegundoExamen\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\ProyectosNET\\soccerTeam\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\ProyectosNET\\SegundoExamen\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\ProyectosNET\\soccerTeam\\Views\\Positions\\Delete.cshtml",
-      "TargetPath": "Views\\Positions\\Delete.cshtml",
+      "FilePath": "c:\\ProyectosNET\\SegundoExamen\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\ProyectosNET\\SegundoExamen\\Views\\Shared\\_CookieConsentPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\ProyectosNET\\SegundoExamen\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\ProyectosNET\\SegundoExamen\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\ProyectosNET\\SegundoExamen\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     }
   ],
